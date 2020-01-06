@@ -1,3 +1,4 @@
+//The board class is the background/ the paddle/ the ball and the board has a set diameter that is used in the ball and paddle class and the speed of the ball is set. 
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
